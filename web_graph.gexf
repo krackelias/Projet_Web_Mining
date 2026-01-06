@@ -1,0 +1,1216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-01-06">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="in_degree" type="long" />
+      <attribute id="1" title="out_degree" type="long" />
+      <attribute id="2" title="betweenness" type="double" />
+      <attribute id="3" title="pagerank" type="double" />
+    </attributes>
+    <nodes>
+      <node id="https://www.visa.com/about-visa.html" label="https://www.visa.com/about-visa.html">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.gsk.com/en-gb/about-us" label="https://www.gsk.com/en-gb/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.rockefellerfoundation.org/about-us" label="https://www.rockefellerfoundation.org/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.eib.org/en/about" label="https://www.eib.org/en/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.conservation.org/about" label="https://www.conservation.org/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.statista.com/aboutus" label="https://www.statista.com/aboutus">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.nielsen.com/about-us" label="https://www.nielsen.com/about-us">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://carnegieendowment.org/about" label="https://carnegieendowment.org/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://slack.com/about" label="https://slack.com/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.ewg.org/about-us" label="https://www.ewg.org/about-us">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.twilio.com/company" label="https://www.twilio.com/company">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.pewresearch.org/about" label="https://www.pewresearch.org/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.uchicago.edu/about" label="https://www.uchicago.edu/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.alibabagroup.com/en/about" label="https://www.alibabagroup.com/en/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.usc.edu/about" label="https://www.usc.edu/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.nttdata.com/global/en/about-us" label="https://www.nttdata.com/global/en/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.care.org/about-us/" label="https://www.care.org/about-us/">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.siemens-healthineers.com/company" label="https://www.siemens-healthineers.com/company">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://about.google" label="https://about.google">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.footprintnetwork.org/about-us" label="https://www.footprintnetwork.org/about-us">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www2.deloitte.com/global/en/pages/about-deloitte/articles/about-deloitte.html" label="https://www2.deloitte.com/global/en/pages/about-deloitte/articles/about-deloitte.html">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.unwomen.org/en/about-us" label="https://www.unwomen.org/en/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.tcs.com/who-we-are" label="https://www.tcs.com/who-we-are">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.stanford.edu/about" label="https://www.stanford.edu/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.cornell.edu/about" label="https://www.cornell.edu/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.who.int/about" label="https://www.who.int/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://yougov.co.uk/about" label="https://yougov.co.uk/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.capgemini.com/about-us" label="https://www.capgemini.com/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.unaids.org/en/aboutunaids" label="https://www.unaids.org/en/aboutunaids">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.anu.edu.au/about" label="https://www.anu.edu.au/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.adb.org/who-we-are" label="https://www.adb.org/who-we-are">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.rand.org/about.html" label="https://www.rand.org/about.html">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.oracle.com/corporate/" label="https://www.oracle.com/corporate/">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://skoll.org/about" label="https://skoll.org/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.wfp.org/about" label="https://www.wfp.org/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.duke.edu/about" label="https://www.duke.edu/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.actionagainsthunger.org/about-us" label="https://www.actionagainsthunger.org/about-us">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.apple.com/leadership" label="https://www.apple.com/leadership">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.mi.com/global/about" label="https://www.mi.com/global/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.dropbox.com/about" label="https://www.dropbox.com/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.shopify.com/about" label="https://www.shopify.com/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.rescue.org/about" label="https://www.rescue.org/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://wellcome.org/about-us" label="https://wellcome.org/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.utexas.edu/about" label="https://www.utexas.edu/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.usa.philips.com/a-w/about" label="https://www.usa.philips.com/a-w/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.workday.com/en-us/company/about-workday.html" label="https://www.workday.com/en-us/company/about-workday.html">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.wto.org/english/thewto_e/whatis_e/wto_dg_stat_e.htm" label="https://www.wto.org/english/thewto_e/whatis_e/wto_dg_stat_e.htm">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.siemens.com/global/en/company/about.html" label="https://www.siemens.com/global/en/company/about.html">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.path.org/about" label="https://www.path.org/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.cognizant.com/about-cognizant" label="https://www.cognizant.com/about-cognizant">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.cisco.com/c/en/us/about.html" label="https://www.cisco.com/c/en/us/about.html">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.gatesfoundation.org/about" label="https://www.gatesfoundation.org/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.bookingholdings.com/about" label="https://www.bookingholdings.com/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://doctorsoftheworld.org/about-us" label="https://doctorsoftheworld.org/about-us">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.accenture.com/us-en/about/company-index" label="https://www.accenture.com/us-en/about/company-index">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.medtronic.com/us-en/about.html" label="https://www.medtronic.com/us-en/about.html">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.idea.int/about-us" label="https://www.idea.int/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.nvidia.com/en-us/about-nvidia/" label="https://www.nvidia.com/en-us/about-nvidia/">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://earthwatch.org/about" label="https://earthwatch.org/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.edf.org/about" label="https://www.edf.org/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.mit.edu/about" label="https://www.mit.edu/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.utoronto.ca/about-u-of-t" label="https://www.utoronto.ca/about-u-of-t">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.ucl.ac.uk/about" label="https://www.ucl.ac.uk/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.habitat.org/about" label="https://www.habitat.org/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.itu.int/en/about/Pages/default.aspx" label="https://www.itu.int/en/about/Pages/default.aspx">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.ebayinc.com/company" label="https://www.ebayinc.com/company">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.etsy.com/about" label="https://www.etsy.com/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.gehealthcare.com/about" label="https://www.gehealthcare.com/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://freedomhouse.org/about-us" label="https://freedomhouse.org/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.care-international.org/about-us" label="https://www.care-international.org/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.novartis.com/about" label="https://www.novartis.com/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.globalcitizen.org/en/about/" label="https://www.globalcitizen.org/en/about/">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://plan-international.org/about-us" label="https://plan-international.org/about-us">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.bain.com/about" label="https://www.bain.com/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.wipro.com/about-us" label="https://www.wipro.com/about-us">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://transparency.eu/about" label="https://transparency.eu/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.microsoft.com/en-us/about" label="https://www.microsoft.com/en-us/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.unep-wcmc.org/about" label="https://www.unep-wcmc.org/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.hcltech.com/about-us" label="https://www.hcltech.com/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://home.kpmg/xx/en/home/about.html" label="https://home.kpmg/xx/en/home/about.html">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.verizon.com/about" label="https://www.verizon.com/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.pfizer.com/about" label="https://www.pfizer.com/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.vodafone.com/about-vodafone" label="https://www.vodafone.com/about-vodafone">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.gallup.com/corporate/212381/who-we-are.aspx" label="https://www.gallup.com/corporate/212381/who-we-are.aspx">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.ucla.edu/about" label="https://www.ucla.edu/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.telekom.com/en/company" label="https://www.telekom.com/en/company">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.iucn.org/about" label="https://www.iucn.org/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://friendsoftheearth.uk/about" label="https://friendsoftheearth.uk/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.harvard.edu/about" label="https://www.harvard.edu/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.kcl.ac.uk/about" label="https://www.kcl.ac.uk/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://stripe.com/about" label="https://stripe.com/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.ibm.com/about" label="https://www.ibm.com/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.fao.org/about/en" label="https://www.fao.org/about/en">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.iaea.org/about" label="https://www.iaea.org/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://ethz.ch/en/the-eth-zurich.html" label="https://ethz.ch/en/the-eth-zurich.html">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.swisscom.ch/en/about.html" label="https://www.swisscom.ch/en/about.html">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://commission.europa.eu/about-european-commission_en" label="https://commission.europa.eu/about-european-commission_en">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://research.ibm.com/about" label="https://research.ibm.com/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.sanofi.com/en/about-us" label="https://www.sanofi.com/en/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.att.com/about" label="https://www.att.com/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.nature.org/en-us/about-us" label="https://www.nature.org/en-us/about-us">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.cfr.org/about" label="https://www.cfr.org/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.ucsusa.org/about" label="https://www.ucsusa.org/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.concern.net/about" label="https://www.concern.net/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.nyu.edu/about" label="https://www.nyu.edu/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.climatecentral.org/about" label="https://www.climatecentral.org/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.worldbank.org/en/about" label="https://www.worldbank.org/en/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.opensocietyfoundations.org/about" label="https://www.opensocietyfoundations.org/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.ey.com/en_gl/about-us" label="https://www.ey.com/en_gl/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://squareup.com/us/en/about" label="https://squareup.com/us/en/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.tencent.com/en-us/about.html" label="https://www.tencent.com/en-us/about.html">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.yale.edu/about-yale" label="https://www.yale.edu/about-yale">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.uva.nl/en/about-the-uva/about-the-university.html" label="https://www.uva.nl/en/about-the-uva/about-the-university.html">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.greenpeace.org/international/about" label="https://www.greenpeace.org/international/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.rainforest-alliance.org/about" label="https://www.rainforest-alliance.org/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.aboutamazon.com/about-us" label="https://www.aboutamazon.com/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.wri.org/about" label="https://www.wri.org/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://newsroom.spotify.com/company-info" label="https://newsroom.spotify.com/company-info">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.atlassian.com/company" label="https://www.atlassian.com/company">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.brookings.edu/about-us" label="https://www.brookings.edu/about-us">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.modernatx.com/about-us" label="https://www.modernatx.com/about-us">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.fordfoundation.org/about" label="https://www.fordfoundation.org/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.huawei.com/en/corporate-information" label="https://www.huawei.com/en/corporate-information">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.jhu.edu/about" label="https://www.jhu.edu/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.bosch.com/company" label="https://www.bosch.com/company">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.pwc.com/gx/en/about.html" label="https://www.pwc.com/gx/en/about.html">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.upenn.edu/about" label="https://www.upenn.edu/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.roche.com/about" label="https://www.roche.com/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.hrw.org/about" label="https://www.hrw.org/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.helpage.org/about-us/" label="https://www.helpage.org/about-us/">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.lse.ac.uk/about-lse" label="https://www.lse.ac.uk/about-lse">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.salesforce.com/company" label="https://www.salesforce.com/company">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.amgen.com/about" label="https://www.amgen.com/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.un.org/en/about-us" label="https://www.un.org/en/about-us">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.hp.com/us-en/hp-information/about-hp.html" label="https://www.hp.com/us-en/hp-information/about-hp.html">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://oceanconservancy.org/about" label="https://oceanconservancy.org/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.ox.ac.uk/about" label="https://www.ox.ac.uk/about">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://about.netflix.com/en" label="https://about.netflix.com/en">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+      <node id="https://www.brown.edu/about" label="https://www.brown.edu/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.sierraclub.org/about" label="https://www.sierraclub.org/about">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.012398787346130861" />
+        </attvalues>
+      </node>
+      <node id="https://www.ilo.org/global/about-the-ilo/lang--en/index.htm" label="https://www.ilo.org/global/about-the-ilo/lang--en/index.htm">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.0018603505038146404" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="https://www.gsk.com/en-gb/about-us" target="https://www.gsk.com/en-gb/about-us" id="0" />
+      <edge source="https://www.rockefellerfoundation.org/about-us" target="https://www.rockefellerfoundation.org/about-us" id="1" />
+      <edge source="https://www.conservation.org/about" target="https://www.conservation.org/about" id="2" />
+      <edge source="https://carnegieendowment.org/about" target="https://carnegieendowment.org/about" id="3" />
+      <edge source="https://slack.com/about" target="https://slack.com/about" id="4" />
+      <edge source="https://www.pewresearch.org/about" target="https://www.pewresearch.org/about" id="5" />
+      <edge source="https://www.nttdata.com/global/en/about-us" target="https://www.nttdata.com/global/en/about-us" id="6" />
+      <edge source="https://www.care.org/about-us/" target="https://www.care.org/about-us/" id="7" />
+      <edge source="https://www.siemens-healthineers.com/company" target="https://www.siemens-healthineers.com/company" id="8" />
+      <edge source="https://www.unwomen.org/en/about-us" target="https://www.unwomen.org/en/about-us" id="9" />
+      <edge source="https://www.tcs.com/who-we-are" target="https://www.tcs.com/who-we-are" id="10" />
+      <edge source="https://www.cornell.edu/about" target="https://www.cornell.edu/about" id="11" />
+      <edge source="https://yougov.co.uk/about" target="https://yougov.co.uk/about" id="12" />
+      <edge source="https://www.capgemini.com/about-us" target="https://www.capgemini.com/about-us" id="13" />
+      <edge source="https://www.unaids.org/en/aboutunaids" target="https://www.unaids.org/en/aboutunaids" id="14" />
+      <edge source="https://www.anu.edu.au/about" target="https://www.anu.edu.au/about" id="15" />
+      <edge source="https://www.adb.org/who-we-are" target="https://www.adb.org/who-we-are" id="16" />
+      <edge source="https://www.rand.org/about.html" target="https://www.rand.org/about.html" id="17" />
+      <edge source="https://www.dropbox.com/about" target="https://www.dropbox.com/about" id="18" />
+      <edge source="https://www.shopify.com/about" target="https://www.shopify.com/about" id="19" />
+      <edge source="https://wellcome.org/about-us" target="https://wellcome.org/about-us" id="20" />
+      <edge source="https://www.usa.philips.com/a-w/about" target="https://www.usa.philips.com/a-w/about" id="21" />
+      <edge source="https://www.workday.com/en-us/company/about-workday.html" target="https://www.workday.com/en-us/company/about-workday.html" id="22" />
+      <edge source="https://www.gatesfoundation.org/about" target="https://www.gatesfoundation.org/about" id="23" />
+      <edge source="https://www.bookingholdings.com/about" target="https://www.bookingholdings.com/about" id="24" />
+      <edge source="https://www.accenture.com/us-en/about/company-index" target="https://www.accenture.com/us-en/about/company-index" id="25" />
+      <edge source="https://www.idea.int/about-us" target="https://www.idea.int/about-us" id="26" />
+      <edge source="https://www.nvidia.com/en-us/about-nvidia/" target="https://www.nvidia.com/en-us/about-nvidia/" id="27" />
+      <edge source="https://www.edf.org/about" target="https://www.edf.org/about" id="28" />
+      <edge source="https://www.mit.edu/about" target="https://www.mit.edu/about" id="29" />
+      <edge source="https://www.utoronto.ca/about-u-of-t" target="https://www.utoronto.ca/about-u-of-t" id="30" />
+      <edge source="https://www.ucl.ac.uk/about" target="https://www.ucl.ac.uk/about" id="31" />
+      <edge source="https://www.habitat.org/about" target="https://www.habitat.org/about" id="32" />
+      <edge source="https://freedomhouse.org/about-us" target="https://freedomhouse.org/about-us" id="33" />
+      <edge source="https://www.care-international.org/about-us" target="https://www.care-international.org/about-us" id="34" />
+      <edge source="https://www.novartis.com/about" target="https://www.novartis.com/about" id="35" />
+      <edge source="https://www.bain.com/about" target="https://www.bain.com/about" id="36" />
+      <edge source="https://www.microsoft.com/en-us/about" target="https://www.microsoft.com/en-us/about" id="37" />
+      <edge source="https://www.hcltech.com/about-us" target="https://www.hcltech.com/about-us" id="38" />
+      <edge source="https://www.verizon.com/about" target="https://www.verizon.com/about" id="39" />
+      <edge source="https://www.pfizer.com/about" target="https://www.pfizer.com/about" id="40" />
+      <edge source="https://www.gallup.com/corporate/212381/who-we-are.aspx" target="https://www.gallup.com/corporate/212381/who-we-are.aspx" id="41" />
+      <edge source="https://www.ucla.edu/about" target="https://www.ucla.edu/about" id="42" />
+      <edge source="https://www.telekom.com/en/company" target="https://www.telekom.com/en/company" id="43" />
+      <edge source="https://www.iucn.org/about" target="https://www.iucn.org/about" id="44" />
+      <edge source="https://www.kcl.ac.uk/about" target="https://www.kcl.ac.uk/about" id="45" />
+      <edge source="https://www.fao.org/about/en" target="https://www.fao.org/about/en" id="46" />
+      <edge source="https://www.iaea.org/about" target="https://www.iaea.org/about" id="47" />
+      <edge source="https://commission.europa.eu/about-european-commission_en" target="https://commission.europa.eu/about-european-commission_en" id="48" />
+      <edge source="https://www.sanofi.com/en/about-us" target="https://www.sanofi.com/en/about-us" id="49" />
+      <edge source="https://www.cfr.org/about" target="https://www.cfr.org/about" id="50" />
+      <edge source="https://www.ucsusa.org/about" target="https://www.ucsusa.org/about" id="51" />
+      <edge source="https://www.ey.com/en_gl/about-us" target="https://www.ey.com/en_gl/about-us" id="52" />
+      <edge source="https://squareup.com/us/en/about" target="https://squareup.com/us/en/about" id="53" />
+      <edge source="https://www.tencent.com/en-us/about.html" target="https://www.tencent.com/en-us/about.html" id="54" />
+      <edge source="https://www.yale.edu/about-yale" target="https://www.yale.edu/about-yale" id="55" />
+      <edge source="https://www.aboutamazon.com/about-us" target="https://www.aboutamazon.com/about-us" id="56" />
+      <edge source="https://www.wri.org/about" target="https://www.wri.org/about" id="57" />
+      <edge source="https://www.atlassian.com/company" target="https://www.atlassian.com/company" id="58" />
+      <edge source="https://www.huawei.com/en/corporate-information" target="https://www.huawei.com/en/corporate-information" id="59" />
+      <edge source="https://www.pwc.com/gx/en/about.html" target="https://www.pwc.com/gx/en/about.html" id="60" />
+      <edge source="https://www.upenn.edu/about" target="https://www.upenn.edu/about" id="61" />
+      <edge source="https://www.roche.com/about" target="https://www.roche.com/about" id="62" />
+      <edge source="https://www.helpage.org/about-us/" target="https://www.helpage.org/about-us/" id="63" />
+      <edge source="https://www.lse.ac.uk/about-lse" target="https://www.lse.ac.uk/about-lse" id="64" />
+      <edge source="https://www.salesforce.com/company" target="https://www.salesforce.com/company" id="65" />
+      <edge source="https://www.amgen.com/about" target="https://www.amgen.com/about" id="66" />
+      <edge source="https://www.un.org/en/about-us" target="https://www.un.org/en/about-us" id="67" />
+      <edge source="https://www.brown.edu/about" target="https://www.brown.edu/about" id="68" />
+      <edge source="https://www.sierraclub.org/about" target="https://www.sierraclub.org/about" id="69" />
+    </edges>
+  </graph>
+</gexf>
